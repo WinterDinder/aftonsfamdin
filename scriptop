@@ -1,0 +1,4 @@
+-- Discord: discord.gg/K6JDqbwgc8
+
+
+game:GetService("Players").LocalPlayer.userId = "23467579"
